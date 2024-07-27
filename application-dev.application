@@ -1,4 +1,4 @@
-spring.application.name= Eureka Config-Dev-Properties 
+spring.application.name= Eureka Config-Properties 
 eureka.instance.prefer-ip-address=true
 eureka.client.fetch-registry=true
 eureka.client.register-with-eureka=true
